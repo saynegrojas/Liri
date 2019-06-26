@@ -11,3 +11,7 @@ Bonus
 Store the information to a text file without overwriting previous search results.
 
 https://saynegrojas.github.io/Liri/
+
+Screenshots 
+
+https://drive.google.com/drive/folders/1dtdZTgirQa4GFEyPpr_145WePfWPwk3f?usp=sharing
