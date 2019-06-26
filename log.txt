@@ -1,0 +1,43 @@
+*****************************
+**********  MOVIE INFO  *********
+Title: Inception 
+Year: 2010 
+Rotten Tomatoes Rating: 86% 
+Rotten Tomatoes Rating: 86% 
+Language: English, Japanese, French 
+Language: English, Japanese, French 
+Actor(s): Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy 
+******************************** 
+**********  MOVIE INFO  ********
+Title: Inception 
+Year: 2010 
+Rotten Tomatoes Rating: 86% 
+Rotten Tomatoes Rating: 86% 
+Language: English, Japanese, French 
+Language: English, Japanese, French 
+Actor(s): Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy 
+********************************
+**********SONG INFO*********
+song name: No Rain
+artist(s): Blind Melon
+preview song: null
+album: Blind Melon
+*****************************
+Artist(s): AFI 
+Datetime: 08 08 2019 
+Venue: BB&T Pavilion 
+Venue: BB&T Pavilion 
+Lineup: AFI,The Smashing Pumpkins,Noel Gallaghers High Flying Birds 
+***********************************
+Artist(s): AFI 
+Datetime: 08 08 2019 
+Venue: BB&T Pavilion 
+       Camden, NJ 
+Lineup: AFI,The Smashing Pumpkins,Noel Gallaghers High Flying Birds 
+***********************************
+**********  CONCERT INFO  *********/nArtist(s): AFI 
+Datetime: 08 08 2019 
+Venue: BB&T Pavilion 
+       Camden, NJ 
+Lineup: AFI,The Smashing Pumpkins,Noel Gallaghers High Flying Birds 
+***********************************
