@@ -47,3 +47,195 @@ Venue: BB&T Pavilion
        Camden, NJ 
 Lineup: AFI,The Smashing Pumpkins,Noel Gallaghers High Flying Birds 
 ***********************************
+**********  MOVIE INFO  ********
+Title: Inception 
+Year: 2010 
+Rotten Tomatoes Rating: 86% 
+Rotten Tomatoes Rating: 86% 
+Language: English, Japanese, French 
+Language: English, Japanese, French 
+Actor(s): Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy 
+********************************
+**********  MOVIE INFO  ********
+Title: Inception 
+Year: 2010 
+Rotten Tomatoes Rating: 86% 
+Country of production: USA, UK 
+Language: English, Japanese, French 
+Synopsis: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. 
+Actor(s): Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy 
+********************************
+**********  MOVIE INFO  ********
+Title: Inception 
+Year: 2010 
+Rotten Tomatoes Rating: 86% 
+Country of production: USA, UK 
+Language: English, Japanese, French 
+Synopsis: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. 
+Actor(s): Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy 
+********************************
+**********SONG INFO*********
+song name: Hideaway
+artist(s): Kiesza
+preview song: null
+album: Sound Of A Woman
+*****************************
+**********  CONCERT INFO  *********/nArtist(s): AFI 
+Datetime: 08 08 2019 
+Venue: BB&T Pavilion 
+       Camden, NJ 
+Lineup: AFI,The Smashing Pumpkins,Noel Gallaghers High Flying Birds 
+***********************************
+**********  CONCERT INFO  *********
+Artist(s): AFI 
+Datetime: 08 08 2019 
+Venue: BB&T Pavilion 
+       Camden, NJ 
+Lineup: AFI,The Smashing Pumpkins,Noel Gallaghers High Flying Birds 
+***********************************
+**********  MOVIE INFO  ********
+Title: Inception 
+Year: 2010 
+Rotten Tomatoes Rating: 86% 
+Country of production: USA, UK 
+Language: English, Japanese, French 
+Synopsis: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. 
+Actor(s): Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy 
+********************************
+**********  SONG INFO  *********
+Song: Hideaway 
+Artist(s): Kiesza 
+Preview: null 
+Album: Sound Of A Woman 
+*****************************
+**********  MOVIE INFO  ********
+Title: Inception 
+Year: 2010 
+Rotten Tomatoes Rating: 86% 
+Country of production: USA, UK 
+Language: English, Japanese, French 
+Synopsis: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. 
+Actor(s): Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy 
+********************************
+**********  SONG INFO  *********
+Song: Hideaway 
+Artist(s): Kiesza 
+Preview: null 
+Album: Sound Of A Woman 
+********************************
+*********  CONCERT INFO  ********
+Artist(s): AFI 
+Datetime: 08 08 2019 
+Venue: BB&T Pavilion 
+       Camden, NJ 
+Lineup: AFI,The Smashing Pumpkins,Noel Gallaghers High Flying Birds 
+********************************
+**********  MOVIE INFO  *******
+Title: Inception 
+Year: 2010 
+Rotten Tomatoes Rating: 86% 
+Country of production: USA, UK 
+Language: English, Japanese, French 
+Synopsis: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. 
+Actor(s): Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy 
+********************************
+**********  SONG INFO  *********
+Song: Hideaway 
+Artist(s): Kiesza 
+Preview: null 
+Album: Sound Of A Woman 
+********************************
+********  CONCERT INFO  ********
+Artist(s): AFI 
+Datetime: 08 08 2019 
+Venue: BB&T Pavilion 
+       Camden, NJ 
+Lineup: AFI,The Smashing Pumpkins,Noel Gallaghers High Flying Birds 
+********************************
+**********  MOVIE INFO  ********
+Title: Inception 
+Year: 2010 
+Rotten Tomatoes Rating: 86% 
+Country of production: USA, UK 
+Language: English, Japanese, French 
+Synopsis: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. 
+Actor(s): Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy 
+********************************
+**********  SONG INFO  *********
+Song: Hideaway 
+Artist(s): Kiesza 
+Preview: null 
+Album: Sound Of A Woman 
+********************************
+********  CONCERT INFO  ********
+Artist(s): AFI 
+Datetime: 08 08 2019 
+Venue: BB&T Pavilion 
+       Camden, NJ 
+Lineup: AFI,The Smashing Pumpkins,Noel Gallaghers High Flying Birds 
+********************************
+**********  MOVIE INFO  ********
+Title: Inception 
+Year: 2010 
+Rotten Tomatoes Rating: 86% 
+Country of production: USA, UK 
+Language: English, Japanese, French 
+Synopsis: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. 
+Actor(s): Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy 
+********************************
+**********  SONG INFO  *********
+Song: Hideaway 
+Artist(s): Kiesza 
+Preview: null 
+Album: Sound Of A Woman 
+********************************
+********  CONCERT INFO  ********
+Artist(s): AFI 
+Datetime: 08 08 2019 
+Venue: BB&T Pavilion 
+       Camden, NJ 
+Lineup: AFI,The Smashing Pumpkins,Noel Gallaghers High Flying Birds 
+********************************
+**********  MOVIE INFO  ********
+Title: Inception 
+Year: 2010 
+Rotten Tomatoes Rating: 86% 
+Country of production: USA, UK 
+Language: English, Japanese, French 
+Synopsis: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. 
+Actor(s): Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy 
+********************************
+**********  SONG INFO  *********
+Song: Hideaway 
+Artist(s): Kiesza 
+Preview: null 
+Album: Sound Of A Woman 
+********************************
+**********  MOVIE INFO  ********
+Title: Inception 
+Year: 2010 
+Rotten Tomatoes Rating: 86% 
+Country of production: USA, UK 
+Language: English, Japanese, French 
+Synopsis: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. 
+Actor(s): Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy 
+********************************
+**********  SONG INFO  *********
+Song: Hideaway 
+Artist(s): Kiesza 
+Preview: null 
+Album: Sound Of A Woman 
+********************************
+********  CONCERT INFO  ********
+Artist(s): AFI 
+Datetime: 08 08 2019 
+Venue: BB&T Pavilion 
+       Camden, NJ 
+Lineup: AFI,The Smashing Pumpkins,Noel Gallaghers High Flying Birds 
+********************************
+**********  SONG INFO  *********
+Song: I Want It That Way 
+Artist(s): Backstreet Boys 
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=cb961a70903d4155be07309345018b56 
+Album: The Hits--Chapter One 
+********************************

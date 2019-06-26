@@ -44,11 +44,11 @@ var showMovieInfo = (queryMovieUrl) => {
                 console.log(`Rotten Tomatoes Rating: ${movieData.Ratings[1].Value}`);
                 fs.appendFileSync('log.txt', `Rotten Tomatoes Rating: ${movieData.Ratings[1].Value} \n`);
                 console.log(`Country of production: ${movieData.Country}`);
-                fs.appendFileSync('log.txt', `Rotten Tomatoes Rating: ${movieData.Ratings[1].Value} \n`);
+                fs.appendFileSync('log.txt', `Country of production: ${movieData.Country} \n`);
                 console.log(`Language: ${movieData.Language}`);
                 fs.appendFileSync('log.txt', `Language: ${movieData.Language} \n`);
                 console.log(`Synopsis: ${movieData.Plot}`);
-                fs.appendFileSync('log.txt', `Language: ${movieData.Language} \n`);
+                fs.appendFileSync('log.txt', `Synopsis: ${movieData.Plot} \n`);
                 console.log(`Actor(s): ${movieData.Actors}`);
                 fs.appendFileSync('log.txt', `Actor(s): ${movieData.Actors} \n`);
                 console.log('********************************');
@@ -77,18 +77,18 @@ var showSongInfo = (param) => {
                 var songs = data.tracks.items;
                 //console.log("sasda", songs);
                 for (var i = 0; i < songs.length; i++) {
-                    console.log("**********  SONG INFO  *********");
-                    fs.appendFileSync("log.txt", "**********SONG INFO*********\n");
+                    console.log('**********  SONG INFO  *********');
+                    fs.appendFileSync('log.txt', '**********  SONG INFO  *********\n');
                     console.log(`Song: ${songs[i].name}`);
-                    fs.appendFileSync("log.txt", "song name: " + songs[i].name + "\n");
+                    fs.appendFileSync('log.txt', `Song: ${songs[i].name} \n`);
                     console.log(`Artist(s): ${songs[i].artists[0].name}`);
-                    fs.appendFileSync("log.txt", "artist(s): " + songs[i].artists[0].name + "\n");
+                    fs.appendFileSync("log.txt", `Artist(s): ${songs[i].artists[0].name} \n`);
                     console.log(`Preview: ${songs[i].preview_url}`);
-                    fs.appendFileSync("log.txt", "preview song: " + songs[i].preview_url + "\n");
+                    fs.appendFileSync('log.txt', `Preview: ${songs[i].preview_url} \n`);
                     console.log(`Album: ${songs[i].album.name}`);
-                    fs.appendFileSync("log.txt", "album: " + songs[i].album.name + "\n");
-                    console.log("********************************");
-                    fs.appendFileSync("log.txt", "*****************************\n");
+                    fs.appendFileSync('log.txt', `Album: ${songs[i].album.name} \n`);
+                    console.log('********************************');
+                    fs.appendFileSync('log.txt', '********************************\n');
                 }
             }
         }
@@ -105,8 +105,8 @@ var showConcertInfo = (queryConcertUrl) => {
             if(error) throw error;
 
             let concertData = response.data[0];
-            console.log('**********  CONCERT INFO  *********');
-            fs.appendFileSync('log.txt', '**********  CONCERT INFO  *********/n');
+            console.log('********  CONCERT INFO  ********');
+            fs.appendFileSync('log.txt', '********  CONCERT INFO  ********\n');
             console.log(`Artist(s): ${concertData.lineup[0]}`);
             fs.appendFileSync('log.txt', `Artist(s): ${concertData.lineup[0]} \n`);
             console.log(`Datetime: ${(moment(concertData.datetime).format('MM DD YYYY'))}`);
@@ -117,8 +117,8 @@ var showConcertInfo = (queryConcertUrl) => {
             fs.appendFileSync('log.txt', `       ${concertData.venue.city}, ${concertData.venue.region} \n`);
             console.log(`Lineup: ${concertData.lineup}`);
             fs.appendFileSync('log.txt', `Lineup: ${concertData.lineup} \n`);
-            console.log("***********************************");
-            fs.appendFileSync('log.txt', '***********************************\n')
+            console.log('********************************');
+            fs.appendFileSync('log.txt', '********************************\n')
         });
 }
 
