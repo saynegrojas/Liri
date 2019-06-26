@@ -10,7 +10,6 @@ Bonus
 
 Store the information to a text file without overwriting previous search results.
 
-https://saynegrojas.github.io/Liri/
 
 Screenshots 
 
